@@ -1,0 +1,9 @@
+2022-09-07T09:20:56.6959880Z ##[section]Starting: Sign APK
+2022-09-07T09:20:56.6983540Z ==============================================================================
+2022-09-07T09:20:56.6984120Z Task         : Android signing
+2022-09-07T09:20:56.6984450Z Description  : Sign and align Android APK files
+2022-09-07T09:20:56.6984710Z Version      : 3.201.0
+2022-09-07T09:20:56.6984970Z Author       : Microsoft Corporation
+2022-09-07T09:20:56.6985350Z Help         : https://docs.microsoft.com/azure/devops/pipelines/tasks/build/android-signing
+2022-09-07T09:20:56.6985800Z ==============================================================================
+2022-09-07T09:20:56.9348030Z ##[section]Finishing: Sign APK
